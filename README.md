@@ -11,3 +11,6 @@ Working Links to twitter - Twitter, Facebook
 Responsive features are working.
 
 Version 3.0 added on 5/10/17 -- Still in Development.
+
+Version 4.0 added some minor adjustments to the design of the site,
+including a new background image as of 5/13/17.
