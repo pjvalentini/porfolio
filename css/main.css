@@ -117,12 +117,6 @@ footer {
   clear: both;
   padding-top: 50px;
   text-transform: uppercase;
-  /*position: absolute;*/
-  /*bottom: 0;*/
-  /*width: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;*/
 }
 
 .social-icon {
@@ -282,8 +276,8 @@ a {
   color: #78878e;
 }
 
-/*twitter handle :hover color change on about page*/
-.anchov:hover {
+/* twitter handle :hover color change on about page*/
+.anchor:hover {
   color: #ff9900;
 }
 
