@@ -1,8 +1,11 @@
 
 
 @media screen and (max-width: 479px) {
+
   nav {
     background: #ff9800;
+    border-top: solid 2px slategray;
+    border-bottom: solid 2px slategray;
   }
 
   nav a.selected, nav a:hover {
@@ -14,22 +17,26 @@
   border: none;
 }
 
+
+/**********************************
+TWO COLUMN LAYOUT
+***********************************/
+
 @media screen and (min-width: 480px) {
 
-  /**********************************
-  TWO COLUMN LAYOUT
-  ***********************************/
-nav {
-  background: #ff9800;
-}
+  nav {
+    background: #ff9800;
+    border-top: solid 2px slategray;
+    border-bottom: solid 2px slategray;
+  }
 
-nav a.selected, nav a:hover {
-  color: #000;
-}
+  nav a.selected, nav a:hover {
+    color: #000;
+  }
 
-.Contact {
-  border: none;
-}
+  .Contact {
+    border: none;
+  }
 
   #primary {
     font-family: "Work-Sans", sans-serif;
@@ -104,6 +111,7 @@ nav a.selected, nav a:hover {
 
   nav {
     background: none;
+    border: none;
     float: right;
     font-size: 1.125em;
     padding: 20px 0;
