@@ -89,7 +89,13 @@ nav ul {
 
 nav li {
   display: inline-block;
-  border-right: solid 1.5px #595959
+  border: solid 1px slategray;
+  border-radius: 5px;
+}
+
+li.Contact {
+  border: solid 1px slategray;
+  border-radius: 5px;
 }
 
 section li a {
