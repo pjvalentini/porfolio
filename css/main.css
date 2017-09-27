@@ -164,6 +164,10 @@ PAGE: PORTFOLIO
 PAGE: ABOUT
 ***********************************/
 
+img.profile-photo {
+  margin-top: 12px;
+}
+
 .profile-photo {
   display: block;
   max-width: 150px;
